@@ -57,6 +57,7 @@ curl http://localhost:8001
 
 ### 7. Perform the Knock Sequence to Close the Port
 
+Install knockd or you can even use telnet as an alternative.
 To close the port, execute the following `knock` command:
 
 ```bash
